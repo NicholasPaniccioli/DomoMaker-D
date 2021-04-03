@@ -28,6 +28,7 @@
   "license": "Apache 2.0",
   "devDependencies": {
     "@babel/cli": "^7.13.14",
+    "@babel/compat-data": "^7.13.12",
     "@babel/core": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
     "@babel/preset-react": "^7.13.13",
